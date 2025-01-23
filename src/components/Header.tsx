@@ -16,7 +16,9 @@ const Header = () => {
               alt="LearnTrade Logo"
               className="h-10 w-10"
             />
-            <span className="text-3xl font-bold text-gray-900">LearnTrade</span>
+            <span className="text-3xl font-bold text-gray-900">
+              LearnTrade 1
+            </span>
           </a>
 
           {/* Desktop Navigation */}
