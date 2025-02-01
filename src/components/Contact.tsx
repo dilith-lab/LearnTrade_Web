@@ -8,7 +8,7 @@ const Contact = () => {
     fullName: "Dilith Achalan",
     email: "dilith.achalan@outlook.com",
     designation: "Systems Engineer",
-    company: "Dialog",
+    company: "HW",
     mobile: "+94773330060",
   };
 
